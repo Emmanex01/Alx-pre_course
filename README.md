@@ -1,1 +1,2 @@
-My first readme
+No pain no gain
+recent chnages 
